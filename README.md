@@ -1,4 +1,12 @@
-### Hi there 👋
+👋 Hi! I’m a PhD student in the [Evolutionary Intelligence](https://www.cwi.nl/en/groups/evolutionary-intelligence/) group at the Dutch Institute for Maths & Computer Science (CWI).
+
+My primary research interests are **Hyperparameter Optimization** and **Neural Architecture Search** (NAS). I believe leveraging **Evolutionary Algorithms** (EAs) for non-differentiable Machine Learning problems such as these is a potentially high-impact research direction. In addition to not requiring gradients, most EAs are trivial to parallelize & scale, so they are fully compatible with [Sutton’s Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
+
+Research-wise I’m also interested in **Explainable AI** (my Master thesis was partly about using NAS for explainability) and **image generation** (the applied part of my PhD project is about privacy-preserving medical image data sharing with GANs). 
+
+Life-wise I’m into fantasy, hiking, and discussing weird ideas.
+
+Always happy to chat about these topics!
 
 <!--
 **AwesomeLemon/AwesomeLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
